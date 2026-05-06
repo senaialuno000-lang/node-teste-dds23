@@ -1,2 +1,3 @@
-npm [install ou i] <nome do pacote a ser baixado>  <!-- Baixa um pacote -->
-npm remove <nome do pacote a ser excluido>  <!-- Exclui um pacote -->
+- npm init <!--Inicia o processo de criação do Node-->
+- npm [install ou i] ``<nome do pacote a ser baixado>``  <!-- Baixa um pacote -->
+- npm remove ``<nome do pacote a ser excluido>``  <!-- Exclui um pacote -->
